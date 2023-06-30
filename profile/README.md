@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is Northeastern Human-Centered AI Lab leaded by [Prof.Dakuo Wang](Https://www.dakuowang.com).
+This is Northeastern Human-Centered AI Lab led by [Prof. Dakuo Wang](Https://www.dakuowang.com).
 
-The page is in process now, if you have any problem, feel free to cantact [Shao Zhang](https://shaozhang.info) by email(zhang.shao1@northeastern.edu).
+The page is in progress now. If you have any problem, feel free to contact [Shao Zhang](https://shaozhang.info) by email(zhang.shao1@northeastern.edu).
