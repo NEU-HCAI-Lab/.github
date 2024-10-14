@@ -13,4 +13,4 @@
 
 This is Northeastern Human-Centered AI Lab led by [Prof. Dakuo Wang](Https://www.dakuowang.com).
 
-The page is in progress now. If you have any problem, feel free to contact [Yuxuan Lu](https://yuxuan.lu) by email[lu.yuxuan@northeastern.edu](mailto:lu.yuxuan@northeastern.edu).
+The page is in progress now. If you have any problem, feel free to contact [Yuxuan Lu](https://yuxuan.lu) by email [lu.yuxuan@northeastern.edu](mailto:lu.yuxuan@northeastern.edu).
